@@ -1,4 +1,4 @@
-Employee Database
+# Employee Database
 This repository contains a structured dataset of employee records, including names, job titles, salaries, and hire dates. It is perfect for practicing SQL queries and understanding database operations.
 
 Features
